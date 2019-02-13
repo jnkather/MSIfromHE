@@ -7,6 +7,6 @@ This is the source code for an unpublished project currently under review at a s
 - Color normalization toolbox (https://warwick.ac.uk/fac/sci/dcs/research/tia/software/sntoolbox/)
 - MatSurv (https://de.mathworks.com/matlabcentral/fileexchange/64582-matsurv)
 
-A more exhaustive documentation will be made available after acceptance. 
+The codes are written in MATLAB and are thoroughly commented. For a more detailed description of the method, please refer to the manuscript which will be linked here after acceptance. 
 
 ![](Ref.png)
